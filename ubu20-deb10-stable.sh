@@ -305,7 +305,7 @@ fi
 TIMES="10"
 CHATID=""
 KEY=""
-URL="https://api.telegram.org/bot$KEY/sendMessage"
+URL=""
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
